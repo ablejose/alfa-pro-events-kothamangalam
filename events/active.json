@@ -1,0 +1,32 @@
+{
+  "slug": "alfa-pro-events-kothamangalam",
+  "name": "Alfa PRO Events",
+  "shortName": "Alfa PRO",
+  "descriptor": "Event Management",
+  "address": "Myloor, kothamangalam, Keralam 686671",
+  "area": "Myloor",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686671",
+  "geo": {
+    "lat": 10.019443299999999,
+    "lng": 76.6398272
+  },
+  "mapsLink": "https://maps.google.com/?cid=14632483439312135435",
+  "phone": "+91 99950 00661",
+  "whatsapp": "919995000661",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 0,
+  "reviewCount": 0,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://alfa-pro-events-kothamangalam.vercel.app"
+}
